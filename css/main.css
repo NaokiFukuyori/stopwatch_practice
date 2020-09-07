@@ -24,5 +24,10 @@
     box-sizing: border-box;
     padding: 15px 20px;
     margin-right: 60px;
-    background-color: #fff;
+    background-color: rgba(199, 194, 194, 0.411);
+    cursor: pointer;
+}
+
+.active {
+ background-color: #ffffff;
 }
